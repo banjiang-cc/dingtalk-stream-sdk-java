@@ -5,7 +5,7 @@
     <parent>
         <artifactId>open-app-stream-client</artifactId>
         <groupId>com.dingtalk.open</groupId>
-        <version>1.2.2</version>
+        <version>1.2.3</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -29,6 +29,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
+            <version>2.0.44</version>
         </dependency>
     </dependencies>
 </project>
